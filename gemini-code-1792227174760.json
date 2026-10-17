@@ -1,5 +1,5 @@
 {
-  "Name": "RoscomVPN",
+  "Name": "Gemini-routing",
   "GlobalProxy": "true",
   "UseChunkFiles": "true",
   "RemoteDns": "8.8.8.8",
